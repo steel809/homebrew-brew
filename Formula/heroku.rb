@@ -5,9 +5,9 @@
 class Heroku < Formula
   desc "Everything you need to get started with Heroku"
   homepage "https://cli.heroku.com"
-  url "https://cli-assets.heroku.com/versions/8.5.0/350fe16/heroku-v8.5.0-350fe16-darwin-x64.tar.xz"
+  url "https://cli-assets.heroku.com/versions/8.7.1/350fe16/heroku-v8.7.1-350fe16-darwin-x64.tar.xz"
   sha256 "222564344812139f5615aa7a2575563c10b43e2174abc8894a37421a284485dd"
-  version "8.5.0"
+  version "8.7.1"
   version_scheme 1
 
   on_macos do
